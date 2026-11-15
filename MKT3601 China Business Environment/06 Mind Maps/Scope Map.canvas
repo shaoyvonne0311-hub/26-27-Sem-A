@@ -1,0 +1,293 @@
+{
+	"nodes": [
+		{
+			"id": "c9fab7896b114e0c",
+			"type": "text",
+			"x": -210,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"color": "6",
+			"text": "# MKT3601 Final\nTue 15 Dec · 09:30 · 40%\nopen book (printed only) · Q1 compulsory + 1 of 2 essays · ~1 h each"
+		},
+		{
+			"id": "2c5deadd36804728",
+			"type": "group",
+			"x": -1810,
+			"y": 0,
+			"width": 400,
+			"height": 468,
+			"label": "W2 Cultural & social"
+		},
+		{
+			"id": "93691095790e4e4d",
+			"type": "text",
+			"x": -1790,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**★ M01** · ★\nCulture Map (8 dimensions)\n\nPhrase it like class: 'in terms of communicating, China is … on the scale'. Know all 8 scales.",
+			"color": "1"
+		},
+		{
+			"id": "5a7dae91cf894004",
+			"type": "text",
+			"x": -1790,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**M02**\nRegional differences + tier cities\n\nTier 1–4 definitions + 1 real example each."
+		},
+		{
+			"id": "8e0c255226ad47f5",
+			"type": "text",
+			"x": -1790,
+			"y": 312,
+			"width": 360,
+			"height": 120,
+			"text": "**M03**\nHukou / aging / urbanisation\n\nDefinition → effect on business → example."
+		},
+		{
+			"id": "5ec0439871cb4fc6",
+			"type": "group",
+			"x": -1350,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "W3 Political & legal"
+		},
+		{
+			"id": "5358d6e49ee14477",
+			"type": "text",
+			"x": -1330,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**★ M04** · ★\nFive Year Plan\n\nWhat it is + current plan's focus + what it means for a foreign firm.",
+			"color": "1"
+		},
+		{
+			"id": "30e72e8e541644a4",
+			"type": "group",
+			"x": -890,
+			"y": 0,
+			"width": 400,
+			"height": 468,
+			"label": "W4-5 Economic reform I"
+		},
+		{
+			"id": "584cfd83145d44a8",
+			"type": "text",
+			"x": -870,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**★ M05** · ★★\nSOE reform\n\nStages of reform, aims, outcomes; link to the SOE vs private-company debate.",
+			"color": "1"
+		},
+		{
+			"id": "9f74571c0dbf44e7",
+			"type": "text",
+			"x": -870,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**M06**\nAgricultural reform\n\nHousehold responsibility system → effects."
+		},
+		{
+			"id": "f7fae319a8444375",
+			"type": "text",
+			"x": -870,
+			"y": 312,
+			"width": 360,
+			"height": 120,
+			"text": "**M07**\nNon-state sector + opening-up\n\nGrowth of private firms; SEZs → opening-up timeline."
+		},
+		{
+			"id": "df7e6e5d8312404a",
+			"type": "group",
+			"x": -430,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "W6 Economic reform II"
+		},
+		{
+			"id": "fe626d30dfdf4314",
+			"type": "text",
+			"x": -410,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**★ M08** · ★\nFTZ names + definitions\n\nList the FTZs by name + one-line definition of an FTZ.",
+			"color": "1"
+		},
+		{
+			"id": "1ecbe44bb594427e",
+			"type": "text",
+			"x": -410,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**M09**\nRostow / regional disparity / BRI / trade war\n\nRostow's 5 stages → where China is; BRI aims; trade-war effects."
+		},
+		{
+			"id": "378bee60bfa048f9",
+			"type": "group",
+			"x": 30,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "W7 Foreign investment"
+		},
+		{
+			"id": "d64e70271bf744b2",
+			"type": "text",
+			"x": 50,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**★ M10** · ★★★\nEntry modes pros/cons\n\nExport, WFOE, JV, M&A, int'l leasing, processing & assembly: type + advantages + disadvantages.",
+			"color": "1"
+		},
+		{
+			"id": "6a62cb0ddf0246ed",
+			"type": "text",
+			"x": 50,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**M11**\nMarketing mix + standardisation vs adaptation\n\n4Ps for China; platform functions + price strategy; promotion by funnel stage."
+		},
+		{
+			"id": "8bc5a460c2654113",
+			"type": "group",
+			"x": 490,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "W9 Consumer market"
+		},
+		{
+			"id": "2f475a7cae6444c0",
+			"type": "text",
+			"x": 510,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**M12**\nSTP + segmentation\n\nDemographic / psychographic / geographic / behavioural + example."
+		},
+		{
+			"id": "74d07a0e750a42db",
+			"type": "text",
+			"x": 510,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**M13**\nE-commerce trends\n\nMarket + marketing trends; promotion strategy; real platform examples."
+		},
+		{
+			"id": "527c33d628c04bce",
+			"type": "group",
+			"x": 950,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "W10 Sustainable development"
+		},
+		{
+			"id": "a4ed1ca8730a4fe5",
+			"type": "text",
+			"x": 970,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**M14**\nSustainable development\n\nScope deck + second teaching deck."
+		},
+		{
+			"id": "f5d798ee72994074",
+			"type": "group",
+			"x": 1410,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "Exam skills"
+		},
+		{
+			"id": "928724a41bc54d14",
+			"type": "text",
+			"x": 1430,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**M15**\nTimed essays\n\n1 h each, handwritten: structure → own opinion → data/events/real examples → conclusion."
+		},
+		{
+			"id": "e59995c18c4e4518",
+			"type": "text",
+			"x": 260,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"text": "**Legend** · red = ★ starred in the Week 10 scope deck (see hub)\nTracker: [[Finals 2026/MKT3601 China Business Environment/03 Tracker/MKT3601 Tracker.xlsx|MKT3601 Tracker.xlsx]] · Hub: [[Finals 2026/MKT3601 China Business Environment/00 Course Hub|00 Course Hub]]"
+		}
+	],
+	"edges": [
+		{
+			"id": "22f5510fa6904cc7",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "2c5deadd36804728",
+			"toSide": "top"
+		},
+		{
+			"id": "2f6314d3cc424817",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "5ec0439871cb4fc6",
+			"toSide": "top"
+		},
+		{
+			"id": "e4cb89183e6442ea",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "30e72e8e541644a4",
+			"toSide": "top"
+		},
+		{
+			"id": "0c5b689e2d2d44b7",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "df7e6e5d8312404a",
+			"toSide": "top"
+		},
+		{
+			"id": "b9fb1b84b68143de",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "378bee60bfa048f9",
+			"toSide": "top"
+		},
+		{
+			"id": "3f1a0881fde04253",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "8bc5a460c2654113",
+			"toSide": "top"
+		},
+		{
+			"id": "941e9235599e4b18",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "527c33d628c04bce",
+			"toSide": "top"
+		},
+		{
+			"id": "e3dc5b3e9ba249f5",
+			"fromNode": "c9fab7896b114e0c",
+			"fromSide": "bottom",
+			"toNode": "f5d798ee72994074",
+			"toSide": "top"
+		}
+	]
+}
