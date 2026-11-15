@@ -1,0 +1,177 @@
+{
+	"nodes": [
+		{
+			"id": "b437bde97cbe4511",
+			"type": "text",
+			"x": -210,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"color": "6",
+			"text": "# CB2203 Final\nThu 10 Dec · 09:30 · 50%\n2 h · closed book · MCQ (incl. Excel output reading) + long questions"
+		},
+		{
+			"id": "1a7e3998669f42e1",
+			"type": "group",
+			"x": -1120,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "LP (L1–L3)"
+		},
+		{
+			"id": "1d5d6fbcf7be4c2b",
+			"type": "text",
+			"x": -1100,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**D01**\nLP formulation / Solver\n\nDecision variables → objective → constraints → Solver (Simplex LP, non-negative)."
+		},
+		{
+			"id": "be4fd6bb3e094827",
+			"type": "text",
+			"x": -1100,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**D02**\nSensitivity analysis\n\nShadow price, reduced cost, allowable increase/decrease; read the Sensitivity Report."
+		},
+		{
+			"id": "eeeb9d1ecaac4da4",
+			"type": "group",
+			"x": -660,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "IP / NLP (L5–L7)"
+		},
+		{
+			"id": "e4d54d54d7e4476d",
+			"type": "text",
+			"x": -640,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**D03**\nInteger programming\n\nInteger/binary constraints, either-or, fixed cost, logical conditions."
+		},
+		{
+			"id": "31f8164070a64830",
+			"type": "text",
+			"x": -640,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**D04**\nNon-linear programming\n\nGRG Nonlinear, starting values, local vs global optimum."
+		},
+		{
+			"id": "7a368f6bf87a4a4b",
+			"type": "group",
+			"x": -200,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "Simulation (L8–L10)"
+		},
+		{
+			"id": "35f65ccf2b014ea7",
+			"type": "text",
+			"x": -180,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**D05**\nSimulation (Monte Carlo / newsvendor / queueing / overbooking)\n\nRAND/VLOOKUP/NORM.INV set-up; read the output table; decide from averages."
+		},
+		{
+			"id": "a25454e38b084915",
+			"type": "group",
+			"x": 260,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "Regression (L11–L12)"
+		},
+		{
+			"id": "ff40c52ac2b44da0",
+			"type": "text",
+			"x": 280,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**D06**\nRegression / ANOVA\n\nRead R², ANOVA F + significance F, coefficient p-values; interpret."
+		},
+		{
+			"id": "5095ff1c799c4ca2",
+			"type": "group",
+			"x": 720,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "Exam skills"
+		},
+		{
+			"id": "0b038167957b4bff",
+			"type": "text",
+			"x": 740,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**D07**\nExcel-input fill-ins\n\nWrite the exact cell formula / Solver entry for each blank."
+		},
+		{
+			"id": "ca8ab6ef1f07432e",
+			"type": "text",
+			"x": 740,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**D08**\nMCQ output reading\n\nAnswer/Sensitivity/regression output → MCQ in < 1.5 min."
+		},
+		{
+			"id": "9ee85bd2d7614d29",
+			"type": "text",
+			"x": 260,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"text": "**Legend** · one card per tracker row; rate them in the tracker\nTracker: [[Finals 2026/CB2203 Data-driven Business Modeling/03 Tracker/CB2203 Tracker.xlsx|CB2203 Tracker.xlsx]] · Hub: [[Finals 2026/CB2203 Data-driven Business Modeling/00 Course Hub|00 Course Hub]]"
+		}
+	],
+	"edges": [
+		{
+			"id": "a82e7ce717c14c76",
+			"fromNode": "b437bde97cbe4511",
+			"fromSide": "bottom",
+			"toNode": "1a7e3998669f42e1",
+			"toSide": "top"
+		},
+		{
+			"id": "2ea33c13b15c47cd",
+			"fromNode": "b437bde97cbe4511",
+			"fromSide": "bottom",
+			"toNode": "eeeb9d1ecaac4da4",
+			"toSide": "top"
+		},
+		{
+			"id": "6eafade2b5e844ee",
+			"fromNode": "b437bde97cbe4511",
+			"fromSide": "bottom",
+			"toNode": "7a368f6bf87a4a4b",
+			"toSide": "top"
+		},
+		{
+			"id": "dd874c922b814333",
+			"fromNode": "b437bde97cbe4511",
+			"fromSide": "bottom",
+			"toNode": "a25454e38b084915",
+			"toSide": "top"
+		},
+		{
+			"id": "75358da984b44c84",
+			"fromNode": "b437bde97cbe4511",
+			"fromSide": "bottom",
+			"toNode": "5095ff1c799c4ca2",
+			"toSide": "top"
+		}
+	]
+}
