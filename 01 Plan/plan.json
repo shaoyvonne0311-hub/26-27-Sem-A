@@ -1,0 +1,1006 @@
+{
+ "generated": "2026-11-05",
+ "exams": [
+  {
+   "course": "CB2203",
+   "date": "2026-12-10",
+   "time": "09:30"
+  },
+  {
+   "course": "GE1359",
+   "date": "2026-12-12",
+   "time": "18:30"
+  },
+  {
+   "course": "CB2240",
+   "date": "2026-12-14",
+   "time": "14:00"
+  },
+  {
+   "course": "MKT3601",
+   "date": "2026-12-15",
+   "time": "09:30"
+  },
+  {
+   "course": "MKT3603",
+   "date": "2026-12-16",
+   "time": "14:00"
+  }
+ ],
+ "budget_hours": {
+  "MKT3603": 36.0,
+  "CB2203": 40.0,
+  "GE1359": 55,
+  "CB2240": 28.0,
+  "MKT3601": 30.0,
+  "BUFFER": 4
+ },
+ "days": [
+  {
+   "date": "2026-11-06",
+   "dow": "Fri",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 34,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 1 · Intro + Motivation",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "CB2203",
+     "hours": 2,
+     "title": "LP：建模型 → Solver → 读 Answer Report",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "dow": "Sat",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "09:00 MKT3603 outline（第二稿）",
+    "15:00 MKT3601 PPT 提交截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 33,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "先红后绿回访：range、tan 22.5°、trig general-solution families（sin: nπ + (−1)ⁿα）、R-form、exact values",
+     "detail": "从期中 Mistake Log 里拿。"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "Sun",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 32,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 2–3",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 2,
+     "title": "core principles → cheat sheet 初稿（variables、expressions、strings、lists/tuples）",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "dow": "Mon",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 31,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 2,
+     "title": "Week 10 scope deck → 星号概念清单（Q1）",
+     "detail": "星号项：culture map、tier cities、Five Year Plan、SOE reform、entry modes、FTZ 名称……"
+    },
+    {
+     "course": "CB2203",
+     "hours": 2.5,
+     "title": "sensitivity analysis：shadow price、allowable increase/decrease；重做 Quiz 1 + Quiz 2 的 LP 题",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "dow": "Tue",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 30,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 4–5",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 2,
+     "title": "conditionals + loops：重做 quiz / classwork",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "dow": "Wed",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 29,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 2,
+     "title": "Week 10 讲义（sustainable development）+ class discussion 题 → Q2/Q3 预测清单",
+     "detail": "押 2 道长题；留意 SEO / 民营企业类 opinion 题。"
+    },
+    {
+     "course": "CB2203",
+     "hours": 2.5,
+     "title": "integer programming：binary/IP 题型；闭卷重做 Assignment 1",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "dow": "Thu",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "09:00 MKT3601 Q&A 截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 28,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "Ch3 剩余内容：第一遍（p.35 之后 / 以课上进度为准）",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "dow": "Fri",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "09:00 MKT PPT 定稿 / Q&A 问题",
+    "17:00 职业形象照申请"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 27,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "Ch3 剩余内容：专项 + factor theorem / partial fractions 混合",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "dow": "Sat",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [
+    "09:00 新增行程"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 26,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 6–7（合订一份 PDF）",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "CB2203",
+     "hours": 2,
+     "title": "non-linear programming + Solver 设置；MCQ 报表读数专项",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "Sun",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "09:00 MKT3601 脚本截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 25,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "Ch1–3 混合练：先做红色",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "dow": "Mon",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "09:00 MKT3601 排练"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 24,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "Ch4 mathematical induction：第一遍",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "dow": "Tue",
+   "phase": 1,
+   "hours": 2,
+   "fixed": [
+    "12:00 MKT3603 小组汇报"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 23,
+   "tasks": [
+    {
+     "course": "CB2240",
+     "hours": 2,
+     "title": "functions + data handling：重做 classwork",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "dow": "Wed",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [
+    "12:30 SWT 申请说明"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 22,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 8 · Self & Identity",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "MKT3601",
+     "hours": 2,
+     "title": "Q1 glossary A：Culture Map（8 维）、regional differences / tier cities、hukou、aging、urbanisation、Five Year Plan",
+     "detail": "corruption 不考。"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "dow": "Thu",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 21,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 2.5,
+     "title": "Q1 glossary B：SOE reform、agricultural reform、non-state sector、opening-up、FTZ 名称 + 定义、Rostow、regional disparity、BRI、trade war",
+     "detail": ""
+    },
+    {
+     "course": "CB2203",
+     "hours": 2,
+     "title": "Simulation 1–2：Monte Carlo、newsvendor（Excel）",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "dow": "Fri",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [
+    "18:00 SWT 线上申请截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 20,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2.5,
+     "title": "Lecture 9",
+     "detail": "每讲四步：(1) 空白纸列出所有 term + definition；(2) 读 slide 补缺口；(3) 自出约 10 道 MCQ；(4) 往 A4 cheat sheet 草稿加 6–8 行。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 2,
+     "title": "homework 重做：trace-the-code + debug",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "dow": "Sat",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 19,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 2.5,
+     "title": "Q1 glossary C：entry modes（export、WFOE、JV、M&A、leasing、processing）优缺点；4Ps、standardisation vs adaptation、platforms / pricing；STP、e-commerce；sustainable development",
+     "detail": ""
+    },
+    {
+     "course": "CB2203",
+     "hours": 2,
+     "title": "Simulation 3：queueing、overbooking；公式填空专项",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "dow": "Sun",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 18,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 3,
+     "title": "剩余 lecture（Social Influence / Culture，若 L1–9 未含）+ 首次全课 MCQ 自测",
+     "detail": "对照 Lecture 1 的课程表：Self II、Social Influence I–II、Culture。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 1.5,
+     "title": "重做上学年 quiz set 1",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "dow": "Mon",
+   "phase": 1,
+   "hours": 4.5,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 17,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 3,
+     "title": "evidence bank：每个主题备数据、事件、真实公司例子",
+     "detail": "每篇 essay 都要有 own opinion + 扎实证据。"
+    },
+    {
+     "course": "CB2203",
+     "hours": 1,
+     "title": "Excel 输入填空专项（单元格公式）",
+     "detail": ""
+    },
+    {
+     "course": "CB2240",
+     "hours": 0.5,
+     "title": "cheat sheet 初稿整理",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "dow": "Tue",
+   "phase": 2,
+   "hours": 6,
+   "fixed": [
+    "16:25 MKT3601 小组汇报"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 16,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "Regression 1：在 Excel 建模型，读 ANOVA 表",
+     "detail": "有新 slide 上传时再补进来。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 3,
+     "title": "最新主题（data processing / visualisation）+ classwork",
+     "detail": "有新 slide 上传时再补进来。"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "dow": "Wed",
+   "phase": 2,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 15,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch4 induction 专项练 + 周三新课 Ch5 笔记",
+     "detail": ""
+    },
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "Regression 2：significance、inference、解释系数",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "dow": "Thu",
+   "phase": 2,
+   "hours": 6,
+   "fixed": [
+    "17:00 MKT3601 书面报告截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 14,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch5 binomial theorem：学 + 练",
+     "detail": ""
+    },
+    {
+     "course": "MKT3601",
+     "hours": 3,
+     "title": "限时 essay #1–#2（各 1 h，手写）+ 1 h 自评",
+     "detail": "练手写速度。"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "dow": "Fri",
+   "phase": 2,
+   "hours": 6,
+   "fixed": [
+    "11:00 台湾通行证缴费截止"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 13,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "regression 练 + 重做 Quiz 3 + Assignment 2（simulation）",
+     "detail": ""
+    },
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch5 combinatorics：学 + 练",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "dow": "Sat",
+   "phase": 2,
+   "hours": 6,
+   "fixed": [
+    "12:00 买 iPad",
+    "17:00 最后一天上课"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 12,
+   "tasks": [
+    {
+     "course": "CB2240",
+     "hours": 3,
+     "title": "重做新 quiz + 最新主题的 homework",
+     "detail": ""
+    },
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch5 混合练；把 Ch4–5 题型补进 Playbook",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "dow": "Sun",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 11,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch1 专题集：domain/range、composite、inverse、sets",
+     "detail": ""
+    },
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "LP/IP 混合练：tutorial 题重做",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "dow": "Mon",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 10,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "sensitivity + NLP 混合练",
+     "detail": ""
+    },
+    {
+     "course": "MKT3603",
+     "hours": 3,
+     "title": "MCQ 重做：in-class quiz，Lecture 1–5",
+     "detail": "闭卷。做错的题进 flashcards。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "dow": "Tue",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 9,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch2 专题集：exact values、general solutions、series、R-form",
+     "detail": ""
+    },
+    {
+     "course": "CB2240",
+     "hours": 3,
+     "title": "code reading + code writing 混合练",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "dow": "Wed",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 8,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch3 专题集：factor theorem、partial fractions、Ch3 其余",
+     "detail": ""
+    },
+    {
+     "course": "MKT3601",
+     "hours": 3,
+     "title": "限时 essay #3–#4 + 复盘",
+     "detail": "每次都要写一段 own opinion。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "dow": "Thu",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 7,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "simulation 混合练 + 手写长答",
+     "detail": ""
+    },
+    {
+     "course": "MKT3603",
+     "hours": 3,
+     "title": "MCQ 重做：Lecture 6–9 + 弱概念清单",
+     "detail": "闭卷。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "dow": "Fri",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 6,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "Ch4–5 混合练 + Mistake Log 重做",
+     "detail": ""
+    },
+    {
+     "course": "CB2240",
+     "hours": 3,
+     "title": "上学年 quiz set 2 + cheat sheet 第二版",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "dow": "Sat",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 5,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "限时 2 h 整卷 #1 + 批改",
+     "detail": "有 past final 就用，没有就自出一套。"
+    },
+    {
+     "course": "CB2203",
+     "hours": 2,
+     "title": "regression 混合练 + 45 分钟限时部分卷",
+     "detail": ""
+    },
+    {
+     "course": "MKT3601",
+     "hours": 1,
+     "title": "10 分钟 outline 速练 × 6 题",
+     "detail": "只写结构 + opinion + 证据。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "dow": "Sun",
+   "phase": 3,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 4,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "限时 2 h 整卷 #2 + 批改",
+     "detail": ""
+    },
+    {
+     "course": "MKT3601",
+     "hours": 1,
+     "title": "开卷 binder 设计",
+     "detail": "按 week 做标签，星号清单放最前，决定打印哪些。"
+    },
+    {
+     "course": "MKT3603",
+     "hours": 2,
+     "title": "A4 cheat sheet 初稿（只写单面）",
+     "detail": "必须与试卷一起交回，否则算违规。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-07",
+   "dow": "Mon",
+   "phase": 4,
+   "hours": 6,
+   "fixed": [
+    "17:00 考试期开始"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 3,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "限时 2 h mock 卷 + 批改",
+     "detail": "考试：12/10 周四 09:30。"
+    },
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "限时 2 h 整卷 #3 + 批改",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "dow": "Tue",
+   "phase": 4,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 2,
+   "tasks": [
+    {
+     "course": "CB2203",
+     "hours": 3,
+     "title": "修弱项 + MCQ 报表读数速度练",
+     "detail": ""
+    },
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "限时 2 h 整卷 #4 + 批改",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "dow": "Wed",
+   "phase": 4,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 1,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 2,
+     "title": "Mistake Log 重做：只做红色",
+     "detail": ""
+    },
+    {
+     "course": "CB2240",
+     "hours": 3,
+     "title": "题库（quiz / homework）限时 2 h mock",
+     "detail": ""
+    },
+    {
+     "course": "BUFFER",
+     "hours": 1,
+     "title": "CB2203 考前夜快过（只读公式与报表读数）",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "dow": "Thu",
+   "phase": 4,
+   "hours": 4,
+   "fixed": [
+    "09:30 CB2203 考试"
+   ],
+   "next_exam": "CB2203",
+   "days_to_next_exam": 0,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 4,
+     "title": "最后一轮整卷 mock（2 h）+ 批改 + 修错",
+     "detail": "CB2203 考完之后。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "dow": "Fri",
+   "phase": 4,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "GE1359",
+   "days_to_next_exam": 1,
+   "tasks": [
+    {
+     "course": "GE1359",
+     "hours": 3,
+     "title": "弱项 + 规则回忆（families、PF forms、induction 模板、binomial）",
+     "detail": "考试：12/12 周六 18:30。"
+    },
+    {
+     "course": "CB2240",
+     "hours": 2,
+     "title": "cheat sheet 定稿 + 弱项",
+     "detail": ""
+    },
+    {
+     "course": "BUFFER",
+     "hours": 1,
+     "title": "GE1359 规则快过",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "dow": "Sat",
+   "phase": 4,
+   "hours": 4,
+   "fixed": [
+    "18:30 GE1359 考试"
+   ],
+   "next_exam": "GE1359",
+   "days_to_next_exam": 0,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 2,
+     "title": "限时 essay #5 + 反馈",
+     "detail": ""
+    },
+    {
+     "course": "BUFFER",
+     "hours": 2,
+     "title": "GE1359 18:30 考前轻回忆：只过规则，不做新卷",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "dow": "Sun",
+   "phase": 4,
+   "hours": 6,
+   "fixed": [],
+   "next_exam": "CB2240",
+   "days_to_next_exam": 1,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 3,
+     "title": "限时 essay #6–#7 + 开头 / 结尾段专项",
+     "detail": ""
+    },
+    {
+     "course": "MKT3603",
+     "hours": 2,
+     "title": "空白纸全量回忆 + cheat sheet 第二版",
+     "detail": ""
+    },
+    {
+     "course": "CB2240",
+     "hours": 1,
+     "title": "轻回忆；打印 / 手写 cheat sheet；收拾文具",
+     "detail": "考试：12/14 周一 14:00。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-14",
+   "dow": "Mon",
+   "phase": 4,
+   "hours": 4,
+   "fixed": [
+    "14:00 CB2240 考试"
+   ],
+   "next_exam": "CB2240",
+   "days_to_next_exam": 0,
+   "tasks": [
+    {
+     "course": "MKT3601",
+     "hours": 3,
+     "title": "打印 + 做 binder 标签；快过 Q1 glossary；早睡",
+     "detail": "明天 09:30–12:30 考试。"
+    },
+    {
+     "course": "MKT3603",
+     "hours": 1,
+     "title": "轻回忆：易混概念对",
+     "detail": "晚上，Python 考完之后。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "dow": "Tue",
+   "phase": 4,
+   "hours": 5,
+   "fixed": [
+    "09:30-12:30 MKT3601 考试"
+   ],
+   "next_exam": "MKT3601",
+   "days_to_next_exam": 0,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 5,
+     "title": "两轮限时 MCQ 模考（按考场节奏）+ 修错 + A4 定稿",
+     "detail": "MKT3601 考完的下午 / 晚上。"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "dow": "Wed",
+   "phase": 4,
+   "hours": 2,
+   "fixed": [
+    "14:00 MKT3603 考试"
+   ],
+   "next_exam": "MKT3603",
+   "days_to_next_exam": 0,
+   "tasks": [
+    {
+     "course": "MKT3603",
+     "hours": 2,
+     "title": "上午只做 skim，不碰新内容",
+     "detail": "检查 cheat sheet 是否只有单面。考试 14:00。"
+    }
+   ]
+  }
+ ]
+}
