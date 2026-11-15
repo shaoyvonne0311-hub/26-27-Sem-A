@@ -1,0 +1,315 @@
+{
+	"nodes": [
+		{
+			"id": "8ea560223c1b4f8a",
+			"type": "text",
+			"x": -210,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"color": "6",
+			"text": "# GE1359 Final\nSat 12 Dec · 18:30 · 70%\n2 h · closed book · trig formula sheet only"
+		},
+		{
+			"id": "9e04d011bb65454b",
+			"type": "group",
+			"x": -1120,
+			"y": 0,
+			"width": 400,
+			"height": 1012,
+			"label": "Ch1 Sets & Functions"
+		},
+		{
+			"id": "f3d7f5be2f4b4b02",
+			"type": "text",
+			"x": -1100,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-SET** · Tier B\nSet operations with intervals & points\n\nInner op first → one number line → check every endpoint → interval/∪/{pt} answer\n\nMidterm latest: **Y**",
+			"color": "3"
+		},
+		{
+			"id": "b0fec03f21964ac2",
+			"type": "text",
+			"x": -1100,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-DR** · Tier A\nLargest domain & range\n\n'well-defined when…' + sign table; range: complete square → inequality chain (or y=f(x), Δ≥0)\n\nMidterm latest: **Y**",
+			"color": "3"
+		},
+		{
+			"id": "da6c4052ea9e4519",
+			"type": "text",
+			"x": -1100,
+			"y": 312,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-COMP** · Tier A\nComposite of 3 functions + domain\n\nInside-out substitution, no need to simplify; conditions ①②③ from each layer; ∩\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "93d8784e39404788",
+			"type": "text",
+			"x": -1100,
+			"y": 448,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-1TO1** · Tier A\nOne-to-one on restricted domain\n\nComplete square; G(x₁)=G(x₂) ⇒ x₁=x₂ or x₁+x₂=2h (rejected ∵ domain) ⇒ 1-1\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "041ee86602c94c1d",
+			"type": "text",
+			"x": -1100,
+			"y": 584,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-INV** · Tier A\nInverse function (choose root sign)\n\n'Since 1-1, G⁻¹ exists'; y=G(x), solve for x, sign from domain (x≤c ⇒ −), swap\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "2fd691960c8b4515",
+			"type": "text",
+			"x": -1100,
+			"y": 720,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-INVDR** · Tier A\nDomain & range of inverse\n\nDom G⁻¹ = Ran G (inequality chain from x≤c); Ran G⁻¹ = Dom G\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "b65d684867324c08",
+			"type": "text",
+			"x": -1100,
+			"y": 856,
+			"width": 360,
+			"height": 120,
+			"text": "**C1-OTHER** · Tier C\nOnto / even-odd / subsets / |f(x)| / transformations\n\nDefinitions: onto ⇔ Ran=codomain; f(−x) test; 2ⁿ subsets; |f| split by sign of f(x)\n\nMidterm latest: **R**",
+			"color": "1"
+		},
+		{
+			"id": "7a7fcb6547214a41",
+			"type": "group",
+			"x": -660,
+			"y": 0,
+			"width": 400,
+			"height": 1148,
+			"label": "Ch2 Trigonometry"
+		},
+		{
+			"id": "490cf2e245de4a8a",
+			"type": "text",
+			"x": -640,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-EXACT** · Tier A\nExact values of combined angle + quadrant\n\nRef triangles + signs → 2α / β/2 via sheet → compound angle → reciprocals → quadrant 'since…'\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "bd2158e95c014048",
+			"type": "text",
+			"x": -640,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-SPECIAL** · Tier B\nExact value of non-standard angle (.5°)\n\n.5° ⇒ half angle (sign from θ's quadrant) or tan double-angle quadratic; or split into 30/45/60\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "61044005ae9a4c40",
+			"type": "text",
+			"x": -640,
+			"y": 312,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-GS1** · Tier A\nGeneral solution: squared ratio = const\n\nConvert to sin/cos/tan, take ±, memorised GS forms, solve kx then ÷k every term, n∈ℤ\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "93783d812f5f4b35",
+			"type": "text",
+			"x": -640,
+			"y": 448,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-GS2** · Tier A\nGeneral solution: identity → factorise\n\nReduction / double angle / sum-to-product → factorise (never divide) → GS for each factor\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "c4e2883cb5b4432f",
+			"type": "text",
+			"x": -640,
+			"y": 584,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-SERIES** · Tier B\nTrig series sum (telescoping)\n\n× 2sin(d/2) → product-to-sum → telescope → sum-to-product → f g / h\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "84bccf2f4437493c",
+			"type": "text",
+			"x": -640,
+			"y": 720,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-RFORM** · Tier C\nR-form (range / solve)\n\nR=√(a²+b²)>0, θ=tan⁻¹(b/a); range [c−R,c+R]; equation → GS\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "76fd7064dfad42e3",
+			"type": "text",
+			"x": -640,
+			"y": 856,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-PROOF** · Tier C\nProve trig identity\n\nFrom LHS, name each formula, template by shape (sum→product, x/2→half angle), end '=RHS ∴'\n\nMidterm latest: **O**",
+			"color": "2"
+		},
+		{
+			"id": "f4ce85d8d34e4818",
+			"type": "text",
+			"x": -640,
+			"y": 992,
+			"width": 360,
+			"height": 120,
+			"text": "**C2-BASICS** · Tier C\nRatios, reductions, inverse trig, graph properties\n\nx,y,r + CAST; 奇变偶不变; principal ranges; a cos(bx+c)+d → Ran, period 2π/|b|\n\nMidterm latest: **O**",
+			"color": "2"
+		},
+		{
+			"id": "f0f6b1646c4c463b",
+			"type": "group",
+			"x": -200,
+			"y": 0,
+			"width": 400,
+			"height": 468,
+			"label": "Ch3 Polynomials, PF, inequalities, systems"
+		},
+		{
+			"id": "96487e8ab9364ac6",
+			"type": "text",
+			"x": -180,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**C3-FACT** · Tier B\nFactor/Remainder theorem + factorise\n\nq(b/a)=0? 'By the Factor Theorem…'; long division by found factors; irreducible quadratic stays\n\nMidterm latest: **O**",
+			"color": "2"
+		},
+		{
+			"id": "c5c5b4c6dbe04df4",
+			"type": "text",
+			"x": -180,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**C3-PF** · Tier A\nPartial fractions\n\nProper? → factorise denominator → form (repeated ladder, Ax+B over quadratic) → Put x=roots → compare coeff\n\nMidterm latest: **G**",
+			"color": "4"
+		},
+		{
+			"id": "b447561ea34f457a",
+			"type": "text",
+			"x": -180,
+			"y": 312,
+			"width": 360,
+			"height": 120,
+			"text": "**C3-REST** · 🆕 final only\nCh3 remainder: inequalities (AM-GM), linear systems, theory of equations\n\nAM-GM for positives; row-echelon → unique / none / infinitely many; sum & product of roots.",
+			"color": "5"
+		},
+		{
+			"id": "64ae977006ab4345",
+			"type": "group",
+			"x": 260,
+			"y": 0,
+			"width": 400,
+			"height": 196,
+			"label": "Ch4 Mathematical induction"
+		},
+		{
+			"id": "ab7ac729ddb345a3",
+			"type": "text",
+			"x": 280,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**C4-IND** · 🆕 final only\nCh4 Mathematical induction (+ proof by contradiction)\n\nLet P(n) … ① P(1) true ② assume P(k) ③ prove P(k+1) USING the assumption ④ 'by the principle of MI'.",
+			"color": "5"
+		},
+		{
+			"id": "e4e78b6cf1854c27",
+			"type": "group",
+			"x": 720,
+			"y": 0,
+			"width": 400,
+			"height": 332,
+			"label": "Ch5 Binomial theorem & combinatorics"
+		},
+		{
+			"id": "435aa0c13fe145e6",
+			"type": "text",
+			"x": 740,
+			"y": 40,
+			"width": 360,
+			"height": 120,
+			"text": "**C5-BIN** · 🆕 final only\nCh5 Binomial theorem\n\nGeneral term T(r+1) = nCr a^(n−r) b^r; collect the power of x → solve for r.",
+			"color": "5"
+		},
+		{
+			"id": "a294f762592f4450",
+			"type": "text",
+			"x": 740,
+			"y": 176,
+			"width": 360,
+			"height": 120,
+			"text": "**C5-COMB** · 🆕 final only\nCh5 Combinatorics\n\nMultiplication principle; nPr = n!/(n−r)!; repeated letters n!/(p!q!…); restrictions first; nCr.",
+			"color": "5"
+		},
+		{
+			"id": "29fae8068b3045df",
+			"type": "text",
+			"x": 260,
+			"y": -260,
+			"width": 420,
+			"height": 150,
+			"text": "**Legend** · colour = midterm latest rating (green/yellow/orange/red) · cyan = new in the final\nCh1–3 detail: [[GE1359 Revision Vault/06 Mind Maps/Scope Map.canvas|Midterm Scope Map]]\nTracker: [[Finals 2026/GE1359 Final/03 Tracker/GE1359 Tracker.xlsx|GE1359 Tracker.xlsx]] · Hub: [[Finals 2026/GE1359 Final/00 Course Hub|00 Course Hub]]"
+		}
+	],
+	"edges": [
+		{
+			"id": "588c88f24cea4fb4",
+			"fromNode": "8ea560223c1b4f8a",
+			"fromSide": "bottom",
+			"toNode": "9e04d011bb65454b",
+			"toSide": "top"
+		},
+		{
+			"id": "215433b23f7c4fb3",
+			"fromNode": "8ea560223c1b4f8a",
+			"fromSide": "bottom",
+			"toNode": "7a7fcb6547214a41",
+			"toSide": "top"
+		},
+		{
+			"id": "5b5daa56de9e4468",
+			"fromNode": "8ea560223c1b4f8a",
+			"fromSide": "bottom",
+			"toNode": "f0f6b1646c4c463b",
+			"toSide": "top"
+		},
+		{
+			"id": "5cb258ac5d3b4b12",
+			"fromNode": "8ea560223c1b4f8a",
+			"fromSide": "bottom",
+			"toNode": "64ae977006ab4345",
+			"toSide": "top"
+		},
+		{
+			"id": "91408ed8ded34a5f",
+			"fromNode": "8ea560223c1b4f8a",
+			"fromSide": "bottom",
+			"toNode": "e4e78b6cf1854c27",
+			"toSide": "top"
+		}
+	]
+}
